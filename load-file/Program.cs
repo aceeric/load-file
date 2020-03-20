@@ -101,7 +101,7 @@ namespace load_file
         {
 #if DEBUG
             args = new string[] {
-                "-file", @"D:\Personal\Beau Senyard\DATA\USASpending\datafeeds\2018_All_Contracts_Delta_20180215.tsv"
+                "-file", @"C:\test.tsv"
                 , "-profile"
                 , "-showddl"
                 , "-db", "ingest"
